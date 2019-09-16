@@ -7,6 +7,7 @@ This project aims to show how to use iterators in python.
 # What is iterator?
 
 Iterators are an object that can be stroll on and only return one element.
+
 Every object that we can create iterator are iterable object.
 Iterator has a protocol which consists of two methods.
 
