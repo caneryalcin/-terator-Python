@@ -24,4 +24,5 @@ The __ __next__() __ method returns the next element of a sequence.
 
 ## StopIteration:
 When there is no element to return the loop has to interrupt.
+
 We must raise a StopIteration exception.
