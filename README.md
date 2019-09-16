@@ -15,9 +15,9 @@ Iterator has a protocol which consists of two methods.
     -Iterators can work with infinite sequences
     -Iterators save resources
 
-The for statement calls the __"__iter__()"__ function from container object.
+The for statement calls the __ __iter__() __ function from container object.
 
-The function returns an iterator object that defines the method __"__next__()"__,
+The function returns an iterator object that defines the method __ __next__() __,
 which accesses elements in the container one at a time. 
 
 The next() method returns the next element of a sequence. 
