@@ -11,9 +11,9 @@ Every object that we can create iterator are iterable object.
 Iterator has a protocol which consists of two methods.
 
 ## Iterators' advantages:
--Cleaner code
--Iterators can work with infinite sequences
--Iterators save resources
+  -Cleaner code
+  -Iterators can work with infinite sequences
+  -Iterators save resources
 
 The for statement calls the __ __iter__() __ function from container object.
 
