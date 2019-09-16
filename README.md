@@ -1,6 +1,6 @@
 # Iterator-Python
 
-This project aims to show how to use iterators in pyton.
+This project aims to show how to use iterators in python.
 
 ---
 
