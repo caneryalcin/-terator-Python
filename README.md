@@ -24,7 +24,7 @@ which accesses elements in the container one at a time.
 
 The __ __next__() __ method returns the next element of a sequence. 
 
-## StopIteration:
+## StopIteration
 When there is no element to return the loop has to interrupt.
 
 We must raise a StopIteration exception.
